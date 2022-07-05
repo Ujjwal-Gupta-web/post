@@ -1,4 +1,4 @@
-const base = "http://localhost:5000";
+const base = "https://api-post-test.herokuapp.com";
 
 
 export const get_user = async () => {
